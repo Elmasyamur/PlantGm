@@ -1,0 +1,49 @@
+newmtl barrelSG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd flowerbarrel_albedo.png
+Ni 0.00
+newmtl initialShadingGroup
+illum 4
+Kd 0.50 0.50 0.50
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+Ni 1.00
+newmtl tulip1SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tulip2.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.06
+newmtl tulip2SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tulip2_alt1.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.06
+newmtl tulip3SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tulip2_alt2.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.06
+newmtl tulip4SG
+illum 4
+Kd 0.00 0.00 0.00
+Ka 0.00 0.00 0.00
+Tf 1.00 1.00 1.00
+map_Kd tulip2_alt3.png
+Ni 1.00
+Ks 0.00 0.00 0.00
+Ns 0.06
